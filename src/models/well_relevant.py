@@ -24,7 +24,7 @@ class ClusterWrapper:
         
         for i, K in enumerate(self.K_range):
             # fir K-th model
-            model = self.model(n_clusters=K)
+            model = self.model(n_clusters=K, n_init='auto')
             model.fit(X)
             self.models.append(model)
             
