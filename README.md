@@ -45,11 +45,11 @@ https://img.shields.io/badge/MIT-green?style=flat&label=license
 
 # Паплайн проект
 
-![alt text](reports/ди.png)
+![alt text](reports/диaграмма.png)
 
 # Контакты
 
-[Дмитрий Золотарев](https://t.me/dimkablin) - Университет ИТМО
-[Егор Прокопов](https://t.me/egrneegr) - Университет ИТМО
-[Александр Серов](https://t.me/thegoldian) - УРФУ
+[Дмитрий Золотарев](https://t.me/dimkablin) - Университет ИТМО \
+[Егор Прокопов](https://t.me/egrneegr) - Университет ИТМО \
+[Александр Серов](https://t.me/thegoldian) - УРФУ \
 [Александр Майданцев](https://t.me/mayd01) - Университет Сириус
